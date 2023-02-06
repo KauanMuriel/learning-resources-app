@@ -3,7 +3,7 @@
         <base-card>
             <header>
                 <h3>{{ title }}</h3>
-                <base-button mode="flat">Delete</base-button>
+                <base-button mode="flat" @click="deleteResource(id)">Delete</base-button>
             </header>
             <p>{{ description }}</p>
             <nav>
@@ -33,6 +33,7 @@ export default {
             required: true
         }
     },
+    inject: ['deleteResource'],
     data() {
         return {
 
