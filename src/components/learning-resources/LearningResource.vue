@@ -40,3 +40,27 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+li {
+    margin: auto;
+    margin-bottom: 3%;
+    max-width: 40rem;
+    background-color: rgb(248, 248, 248);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 3px 3px #ccc;
+    list-style: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: tomato;
+}
+</style>
