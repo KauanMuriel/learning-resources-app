@@ -1,35 +1,22 @@
-# LearningResourcesApp
+# Learning Resources App
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Description 📄
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+A simple application that allows you to create a list of learning resources for study, each item have a description and a link to official documentation.
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Why ❓
 
-## Project Setup
+A project created to practice and review some contents of Vue.js like dynamic components, providing and injecting data, props and others.
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
+## Technologies 🖥️
 
-```sh
-npm run dev
-```
+- Javascript
+- Vue.js
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+## Collaboratos 👥
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- KauanMuriel: [https://github.com/KauanMuriel](https://github.com/KauanMuriel)
